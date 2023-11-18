@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="1.4.03" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
+    <Thumbnail Source="iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAA7EAAAOxAGVKw4bAAALH0lEQVR4nO3dz2tWVx7H8XdHTTqb/IDQ2tEkjySWpimUMoUuZjHqKttupIV2UBw3wuDWRRG78V/IYroYESmdUiiUUBj1LxgYGKMLMWpiVDCQRBMHkycmzuLOMJvQzDXPc+9zzvf92l7Oc87q4/VzTs5949WrV69Quv4MjAFvVDzvFnAb+GPF86ql3jAAErcH+AT4VcXzbgJ/B15WPK9aygBI3a+BZeDNiuf9F/A28LziedVSVf+7IamDGABSYAaAFJgBIAW2t+4FqM2Gh+HZM9i3r9y4jQ3o74f799uzLnUEAyB3774Lp0/DsWPlxl29CpcutWdN6hgGQO727oWeHhgYKDeup6cYq6zZAUiBGQBSYL7j5a7ZhIUFmJsrN25hoRirrHkUOHU7HQUeHYXnz+HNkmeF19agtxdu397+uUeBs+AbQO5mZupegTqYHYAUmAEgBWYASIEZAFJgloCpawIfU8+VYC8qnlMtZwCk7kegQfUB8Ap4UPGcajnPAUiB2QFIgRkAUmB2AKl7B/iQekrAaeBxxfOqpewAUtcNfA90VTzvGvA57gQkzgBInd8F0C7YAUiBGQBSYAaAFJi7ALk7fx66uoorvstYWoLNTbhwoS3LUmewBEzdTiXg+DiMjMDQULnfnZuD2VmYnt7+uSVgFnwDyN3QEJw5AxMT5cZNTcHkZHvWpI5hByAFZgBIgRkAUmCWgKnbqQQcG4PBQThwoNzvPnwIjx/DrVvbP7cEzIIlYO5OnHi9bcDl5WIbUFnzDSB1/i2AdsEOQArMAJACMwCkwCwBU7dJcTPwvornXf/P3EqaAZC63wB/pfp3uS2K68iUNHcBpMDsAKTADAApMDuA1P0FeI96rgW/A/yh4nnVUnYAqdsD/JZ6SsB/AC8rnlctZQCkzqPA2gU7ACkwA0AKzACQAjMApMDcBszd8DA8ewb7Sv6xwMZGcYnI/fvtWZc6ggGQu3ffhdOn4dixcuOuXoVLl9qzJnUMAyB3e/dCTw8MDJQb19NTjFXW7ACkwAwAKTDf8XLXbMLCQvGtvzIWFoqxyppHgVO301Hg0VF4/hzeLHlWeG0Nenvh9u3tn3sUOAu+AeRuZqbuFaiD2QFIgRkAUmAGgBSYASAFZgmYuibwMfVcCfai4jnVcgZA6n4EGlQfAK+ABxXPqZbzHIAUmB2AFJgBIAVmB5C6d4APqacEnAYeVzyvWsoOIHXdwPdAV8XzrgGf405A4gyA1PldAO2CHYAUmAEgBWYASIG5C5C78+ehq6u44ruMpSXY3IQLF9qyLHUGS8DU7VQCjo/DyAgMDZX73bk5mJ2F6entn1sCZsE3gNwNDcGZMzAxUW7c1BRMTrZnTeoYdgBSYAaAFJgBIAVmCZi6nUrAsTEYHIQDB8r97sOH8Pgx3Lq1/XNLwCxYAubuxInX2wZcXi62AZU13wBS598CaBfsAKTADAApMANACswSMHVbwE/UcyGIHWHyDIDUvQ1cpvp3uS3grYrnVMu5CyAFZgcgBWYASIHZAaTuW+Aw9VwLfhf4rOJ51VJ2AKnbQ/FdgDpKwBvAy4rnVUsZAKnzKLB2wQ5ACswAkAIzAKTADAApMLcBc9dowOpqcSlIGc0m9PXB3bttWZY6gwGQu9FROHUKjh4tN+7aNbh8uT1rUscwAHK3b19xHdj+/eXG9fcXY5U1OwApMANACsz/AuRuYwMWF+HRo3LjFheLscqaR4FTt9NR4JERWFmB7u5yv7u+Dr29MDOz/XOPAmfBN4DcuY2nX2AHIAVmAEiBGQBSYAaAFJglYOqawCfUcyPQWsVzquUMgNR9B4xQz52AsxXPqZbzHIAUmB2AFJgBIAVmB5C6A8BH1NMB3ADmK55XLWUHkLpuio+D1PF14C+BFxXPq5YyAFLndwG0C3YAUmAGgBSYASAF5i5A7r7+urgMpL+/3LilJdjchK++as+61BEsAVO3Uwn4/vtw6BAMDpb73QcPYH4epqe3f24JmAXfAHI3PAx/+hNMTJQbNzUFk5PtWZM6hh2AFJgBIAVmAEiBWQKm7v8pAYeH4eDBcr87Pw8PH8LNm9s/twTMgiVg7r744n/fByzj8OFiG1BZ8w0gdf4tgHbBDkAKzACQAjMApMAsAVO3BfxEPReC2BEmzwBI3dvAZer5LsBbFc+plnMXQArMDkAKzACQArMDSN23wGHquRb8LvBZxfOqpewAUrcH+JB6SsAbwMuK51VLGQCp8yiwdsEOQArMAJACMwCkwAwAKTC3AXPXaMDqKnSV/GOBZhP6+uDu3bYsS53BAMjd6CicOgVHj5Ybd+0aXL7cnjWpYxgAufvvdWD795cb199fjFXW7ACkwAwAKTD/C5C7jQ1YXIRHj8qNW1wsxiprHgVO3U5HgUdGYGWl+EJwGevr0NsLMzPbP/cocBZ8A8id23j6BXYAUmAGgBSYASAFZgBIgVkCpq4JfEI9NwKtVTynWs4ASN13wAj13Ak4W/GcajnPAUiB2QFIgRkAUmB2AKk7AHxEPR3ADWC+4nnVUnYAqeum+DhIHV8H/hJ4UfG8aikDIHV+F0C7YAcgBWYASIEZAFJg7gLk7uLF4krw/v5y45aWYHMTzp1rz7rUESwBU7dTCTg2BsPDcPBgud+dny+uEbt5c/vnloBZ8A0gd40GnD0LExPlxk1NweRkW5akzmEHIAVmAEiBGQBSYJaAqdupBBwfh0OHYHCw3O/OzRVF4PT09s8tAbNgCZi748dfbxtwcLDYBlTWfANInX8LoF2wA5ACMwCkwAwAKTBLwNRtAT9Tz4UgdoTJMwBSNwB8Qz1Xgg1UPKdazl0AKTA7ACkwA0AKzA4gdT9Q76fBPq14XrWUHUDq9gAfUE8A3MKdgMQZAKnzKLB2wQ5ACswAkAIzAKTADAApMLcBczcyAqur0N1dbtz6OvT2wp077VmXOoIBkLtGA06ehCNHyo27fh2uXGnHitRBDIDcdXXBwED5D4MMDBRjlTU7ACkwA0AKzP8C5G5jA5aX4cmTcuOePi3GKmseBU7dTkeBGw1YWSn///lmE/r64N697Z97FDgLvgHkbna27hWog9kBSIEZAFJgBoAUmAEgBWYJmLom8Duqj/Itim8DKGkGQOouA4ep50qwuxXPqZbzHIAUmB2AFJgBIAVmB5C6IeAj6ikB/0nxbQAlywBI3RPgC2BfxfOuAX+reE61nCVg6vwugHbBDkAKzACQAjMApMAsAXN38WJxGUh/f7lxS0uwuQnnzrVnXeoIloCp26kEHBuD4eHytwLPz8OjR3Dz5vbPLQGz4BtA7hoNOHsWJibKjZuagsnJtixJncMOQArMAJACMwCkwCwBU7dTCTg+DocOweBgud+dmyuKwOnp7Z9bAmbBEjB3x4+/3jbg4GCxDais+QaQOv8WQLtgByAFZgBIgRkAUmCWgKnbAn4GSn77c9fWADvC5BkAqRsAvqGea8EHKp5TLecugBSYHYAUmAEgBWYHkLofgBHq6QBmgU8rnlctZQeQuj3AB9QTALdwJyBxBkDqPAqsXbADkAIzAKTADAApMANACsxtwNyNjMDqKnR3lxu3vg69vXDnTnvWpY5gAOSu0YCTJ+HIkXLjrl+HK1fasSJ1EAMgd11dMDBQ/sMgAwPFWGXNDkAKzACQAvO/ALnb2IDlZXjypNy4p0+LscqaR4FTt9NR4EYDVlbK/3++2YS+Prh3b/vnHgXOgm8AuZudrXsF6mB2AFJgBoAUmAEgBWYASIFZAqauCfye6qN8i+LbAEqaAZC6b4D3qOdKMP9OKHn/BonP3+FL79j6AAAAAElFTkSuQmCC"/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+        <Optimize_OverlapDist Value="0.025"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="2"/>
+        <name Value="C02"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.33333"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="7"/>
+        <name Value="C07"/>
+        <minPower Value="5"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.33333"/>
+        <priority Value="1"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 262.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 247.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 232.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 217.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 202.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 187.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 172.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 157.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 142.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 127.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 147.53151 112.91998</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="9.1999998" H="3.7" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="7" W="19.739092" H="11.739093" Cr="0">
+                <XForm>1 0 0 -1 52.468494 -55.419991</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
